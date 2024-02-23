@@ -8,3 +8,6 @@
 
 ### Calc fame
 [![asciicast](https://asciinema.org/a/YzUL7E53BbJAVaCDZBKIGpps8.svg)](https://asciinema.org/a/YzUL7E53BbJAVaCDZBKIGpps8)
+
+### GCD game
+[![asciicast](https://asciinema.org/a/5IlQx3mFAC1cZmBI3JvR6sU6k.svg)](https://asciinema.org/a/5IlQx3mFAC1cZmBI3JvR6sU6k)

@@ -1,6 +1,4 @@
-function getRandomInt(max) {
-  return Math.floor(Math.random() * max);
-}
+import getRandomInt from '../helpers/basic.js';
 
 export default function evenGame() {
   return {
