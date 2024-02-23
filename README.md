@@ -14,3 +14,6 @@
 
 ### Progression game
 [![asciicast](https://asciinema.org/a/SjsCOzsHGgKsUvdwIuGh4ED1h.svg)](https://asciinema.org/a/SjsCOzsHGgKsUvdwIuGh4ED1h)
+
+### Prime game
+[![asciicast](https://asciinema.org/a/b4J4DnP4U6d17CjTWOGZiwcuc.svg)](https://asciinema.org/a/b4J4DnP4U6d17CjTWOGZiwcuc)
