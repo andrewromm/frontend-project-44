@@ -5,3 +5,6 @@
 
 ### Even-Odd game
 [![asciicast](https://asciinema.org/a/ym88P9nvxYnIzSWUWa1ga0uIj.svg)](https://asciinema.org/a/ym88P9nvxYnIzSWUWa1ga0uIj)
+
+### Calc fame
+[![asciicast](https://asciinema.org/a/YzUL7E53BbJAVaCDZBKIGpps8.svg)](https://asciinema.org/a/YzUL7E53BbJAVaCDZBKIGpps8)

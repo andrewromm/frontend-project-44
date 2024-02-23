@@ -2,7 +2,7 @@
 
 import playGame from '../src/index.js';
 import greating from '../src/cli.js';
-import evenGame from '../src/games/even.js';
+import calcGame from '../src/games/calc.js';
 
 const userName = greating();
-playGame(evenGame(), userName);
+playGame(calcGame(), userName);
